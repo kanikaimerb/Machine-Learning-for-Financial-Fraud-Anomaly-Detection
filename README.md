@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fraud%20%26%20Anomaly%20Detection&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20for%20Financial%20Security&descAlignY=55&descSize=20" width="100%"/>
+<h1 style="font-size: 40px; font-weight: 700; margin-bottom: 10px;">
+ Fraud & Anomaly Detection in Financial Transactions by Machine learning
+</h1>
 
 <!-- Badges -->
 <p>
