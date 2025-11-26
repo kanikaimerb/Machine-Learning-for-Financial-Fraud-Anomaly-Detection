@@ -25,8 +25,6 @@
 <p style="font-size: 18px; color: #555; max-width: 700px;">
 A machine learning project that detects fraudulent financial transactions using 
 feature engineering, Chi-Square feature selection, and Logistic Regression.
-Built as part of my AI coursework — focused on showing 
-<strong>data cleaning → preprocessing → feature engineering → model training → evaluation</strong>.
 </p>
 
 <div align="center">
@@ -39,22 +37,18 @@ Built as part of my AI coursework — focused on showing
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60px"/><br/>
 <b>Advanced ML Models</b><br/>
 <sub>Random Forest & Logistic Regression</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/statistical.png" width="60px"/><br/>
 <b>Feature Engineering</b><br/>
 <sub>Intelligent feature selection & creation</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/graph.png" width="60px"/><br/>
 <b>Data Visualization</b><br/>
 <sub>Comprehensive exploratory analysis</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/accuracy.png" width="60px"/><br/>
 <b>High Performance</b><br/>
 <sub>Optimized for large-scale datasets</sub>
 </td>
