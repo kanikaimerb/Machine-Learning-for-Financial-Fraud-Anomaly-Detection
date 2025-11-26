@@ -50,7 +50,7 @@ feature engineering, Chi-Square feature selection, and Logistic Regression.
 </td>
 <td align="center" width="25%">
 <b>Model training </b><br/>
-<sub>Find patterns and make predictions</sub>
+<sub>Find patterns and make predictions using Logistic Regression</sub>
 </td>
 </tr>
 </table>
@@ -108,47 +108,6 @@ graph LR
 ```
 
 </div>
-
-<div align="center">
-
-## 🔬 **Methodology**
-
-</div>
-
-### **1️⃣ Data Preprocessing**
-```python
-✓ Load dataset (6.3M+ transactions)
-✓ Handle missing values
-✓ Data type conversions
-✓ Exploratory Data Analysis (EDA)
-```
-
-### **2️⃣ Feature Engineering**
-- **Created Features:**
-  - `errorBalanceOrig`: Balance inconsistency detection
-  - `errorBalanceDest`: Recipient balance anomalies
-  - `ratio`: Transaction-to-balance ratio
-- **Categorical Encoding**: One-hot encoding for transaction types
-- **Feature Selection**: Chi-square, Random Forest, Mutual Information
-
-### **3️⃣ Model Training**
-<div align="center">
-
-| Model | Algorithm | Purpose |
-|:---:|:---:|:---:|
-| 📊 | **Logistic Regression** | Primary classification model |
-
-</div>
-
-### **4️⃣ Model Evaluation**
-- Confusion Matrix Analysis
-- Classification Report (Precision, Recall, F1-Score)
-- ROC-AUC Score
-- Cross-validation
-
----
-
-<div align="center">
 
 
 <!-- Footer -->
