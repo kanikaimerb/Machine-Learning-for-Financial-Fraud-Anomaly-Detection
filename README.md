@@ -10,13 +10,6 @@
   <img src="https://img.shields.io/badge/Python-3.12.2-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License"/>
-  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions"/>
 </p>
 
 </div>
@@ -29,28 +22,12 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
-
-### 💡 **What is this?**
-A cutting-edge **machine learning solution** that detects fraudulent transactions in financial systems using advanced classification algorithms. This project leverages the power of data science to identify suspicious patterns and anomalies in real-time financial transactions.
-
-</td>
-<td width="50%">
-
-### 🎓 **Why does it matter?**
-Financial fraud costs billions annually. This system provides:
-- ✅ **Real-time detection** of fraudulent activities
-- ✅ **High accuracy** classification models
-- ✅ **Scalable solution** for large datasets
-- ✅ **Interpretable results** for decision-making
-
-</td>
-</tr>
-</table>
-
----
+<p style="font-size: 18px; color: #555; max-width: 700px;">
+A machine learning project that detects fraudulent financial transactions using 
+feature engineering, Chi-Square feature selection, and Logistic Regression.
+Built as part of my AI coursework — focused on showing 
+<strong>data cleaning → preprocessing → feature engineering → model training → evaluation</strong>.
+</p>
 
 <div align="center">
 
