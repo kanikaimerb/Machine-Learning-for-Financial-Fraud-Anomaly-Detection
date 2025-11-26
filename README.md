@@ -29,6 +29,12 @@ feature engineering, Chi-Square feature selection, and Logistic Regression.
 
 <div align="center">
 
+<h3 align="center">
+  <strong>Kanika Chantangwong</strong><br>
+  CTBCSE SVII P3 — Artificial Intelligence<br>
+  Enrollment No: <strong>012200300004053</strong>
+</h3>
+
 ## 🚀 **Key Features**
 
 </div>
