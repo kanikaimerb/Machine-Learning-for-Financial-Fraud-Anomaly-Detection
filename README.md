@@ -74,10 +74,12 @@ PaySim1 – Financial Transactions Dataset (Kaggle)
  
 | **Attribute** | **Details** |
 |:---:|:---:|
-| 📁 **Total Records** | 6,362,620 transactions |
-| 📋 **Features** | 11 columns (5 float, 3 int, 3 object) |
-| 🎯 **Target Variable** | isFraud (Binary Classification) |
-| 💾 **Memory Usage** | ~534 MB |
+| **Total Records** | 6,362,620 transactions |
+| **Features** | 11 columns (5 float, 3 int, 3 object) |
+| **Target Variable** | isFraud (Binary Classification) |
+| **Legitimate (Class 0)** | 6,354,407 |
+| **Fraudulent (Class 1)** | 8,213 |
+| **Memory Usage** | ~534 MB |
 
 </div>
 
