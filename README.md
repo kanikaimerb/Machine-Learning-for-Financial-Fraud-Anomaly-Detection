@@ -110,13 +110,24 @@ graph LR
 ```
 
 </div>
+<br>
 
+<h3>Description of Each Step</h3>
+
+<ul>
+  <li><strong>Data Collection:</strong> Importing the financial transactions dataset from a publicly available source.</li>
+  
+  <li><strong>Data Preprocessing:</strong> Cleaning missing values, encoding categorical features, and transforming numerical fields for consistency.</li>
+  
+  <li><strong>Feature Engineering:</strong> Selecting impactful variables such as transaction amount, current balance, and old balance to improve model performance.</li>
+  
+  <li><strong>Model Training:</strong> Training a Logistic Regression model with optimized parameters on 80% of the dataset.</li>
+  
+  <li><strong>Evaluation:</strong> Measuring model accuracy, F1-score, and analyzing confusion matrix for fraud vs. non-fraud performance.</li>
+  
+  <li><strong>Prediction:</strong> Using the trained model to predict whether future transactions are fraudulent.</li>
+</ul>
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**Made with ❤️ and Python**
-
-<sub>© 2025 Fraud Detection ML Project. All Rights Reserved.</sub>
-
 </div>
