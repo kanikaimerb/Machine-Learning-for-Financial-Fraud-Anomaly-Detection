@@ -37,20 +37,20 @@ feature engineering, Chi-Square feature selection, and Logistic Regression.
 <table>
 <tr>
 <td align="center" width="25%">
-<b>Advanced ML Models</b><br/>
-<sub>Random Forest & Logistic Regression</sub>
+<b>Data cleaning</b><br/>
+<sub>Improve dataset quality and reliability</sub>
+</td>
+<td align="center" width="25%">
+<b>Feature selection</b><br/>
+<sub>Improve a machine learning model's performance</sub>
 </td>
 <td align="center" width="25%">
 <b>Feature Engineering</b><br/>
-<sub>Intelligent feature selection & creation</sub>
+<sub>Improve the performance of machine learning models</sub>
 </td>
 <td align="center" width="25%">
-<b>Data Visualization</b><br/>
-<sub>Comprehensive exploratory analysis</sub>
-</td>
-<td align="center" width="25%">
-<b>High Performance</b><br/>
-<sub>Optimized for large-scale datasets</sub>
+<b>Model training </b><br/>
+<sub>Find patterns and make predictions</sub>
 </td>
 </tr>
 </table>
@@ -66,13 +66,14 @@ feature engineering, Chi-Square feature selection, and Logistic Regression.
 
 <div align="center">
 
+**Source:** Synthetic Financial Transactions Dataset (Kaggle)  
+
 | **Attribute** | **Details** |
 |:---:|:---:|
 | 📁 **Total Records** | 6,362,620 transactions |
 | 📋 **Features** | 11 columns (5 float, 3 int, 3 object) |
 | 🎯 **Target Variable** | isFraud (Binary Classification) |
 | 💾 **Memory Usage** | ~534 MB |
-| 🔍 **Transaction Types** | PAYMENT, TRANSFER, CASH_OUT, DEBIT, CASH_IN |
 
 </div>
 
